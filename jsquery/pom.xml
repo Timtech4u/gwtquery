@@ -11,7 +11,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <gwtExporterVersion>2.4.0</gwtExporterVersion>
+        <gwtExporterVersion>2.5.1</gwtExporterVersion>
     </properties>
 
     <dependencies>
